@@ -1,0 +1,7 @@
+
+==================
+Nama Member: Andi
+Type Pc: Regular
+Harga perjam: 3000
+Lama Main: 5 jam
+Total Harga: 15000
